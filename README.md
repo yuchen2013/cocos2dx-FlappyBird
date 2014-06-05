@@ -4,5 +4,5 @@ cocos2dx-FlappyBird
 ###This is a cocos2d-x project.
     Inspiration comes from the Game CS.
 ###
-    
+    sysuyuchen@gnail.com
 ![github screen1](/images/bird.gif)
