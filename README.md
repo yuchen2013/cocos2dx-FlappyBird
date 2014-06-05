@@ -1,9 +1,8 @@
 cocos2dx-FlappyBird
 ===================
-
-###This is an cocos2d-x project.
-    Inspiration comes from the Game CS.
+@author SYSU YuChen
+###This is a cocos2d-x project.
     Inspiration comes from the Game CS.
 ###
-    In additon ,I add the particle system. 
+    
 ![github screen1](/images/bird.gif)
